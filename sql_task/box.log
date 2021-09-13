@@ -1,0 +1,94 @@
+root - ERROR - name 'config' is not defined
+root - ERROR - creation table error
+root - ERROR - name 'config' is not defined
+root - ERROR - creation table error
+root - ERROR - name 'config' is not defined
+root - ERROR - creation table error
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - ERROR - creation table error
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - ERROR - creation table error
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - ERROR - creation table error
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - ERROR - creation table error
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - tables created successfully
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - tables created successfully
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - response info data added
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - response info data added
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - response info data added
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - response info data added
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - tables created successfully
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - tables created successfully
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - tables created successfully
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - tables created successfully
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - tables created successfully
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - tables created successfully
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - tables created successfully
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - response info data added
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - tables created successfully
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - {"Request_id": 2, "response": "failure", "reason": "Inavalid state "}
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - tables created successfully
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+mysql.connector.connection - DEBUG - new_auth_plugin: caching_sha2_password
+root - INFO - {"Request_id": 3, "response": "success", "reason": ""}
