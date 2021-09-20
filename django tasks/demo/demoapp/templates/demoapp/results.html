@@ -1,0 +1,7 @@
+{% block content %}
+result :: {{json}}
+
+{% for i in obj %}
+<P style="padding-right: 15px;">{{i.reqid}}  {{i.pan}}</P>
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,24 @@
+<html>
+<head>
+<h2>Register</h2><hr>
+</head>
+<body style="text-align: center;">
+<div style="margin-left: 42%;text-align: left;">
+	<form action="adddata" method="POST">
+		{% csrf_token %}
+		<p>FirstName:<input type="text" name="fn" placeholder="FirstName" required=""></p>
+		<p>LastName:<input type="text" name="ln" placeholder="lastname" required=""></p>
+		<p>DOB:<input type="date" name="dob" required=""></p>
+		<p>Gender:<input type="text" name="gender" required=""></p>
+		<p>Nationality:<input type="text" name="nation" required=""></p>
+		<p>city:<input type="text" name="city"></p>
+		<p>state:<input type="text" name="state" required=""></p>
+		<p>Pincode:<input type="text" name="pin"></p>
+		<p>Qualification:<input type="text" name="qual"></p>
+		<p>Salary:<input type="text" name="sal" required=""></p>
+		<p>PAN:<input type="text" name="pan" required></p>
+		<center></center><input type="submit" name="submit"><input type="reset" name="reset"></center>
+	</form>
+</div>
+</body>
+</html>
